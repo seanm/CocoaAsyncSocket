@@ -1,9 +1,11 @@
 //
 //  CocoaAsyncSocket.h
-//  CocoaAsyncSocket
 //
-//  Created by Derek Clarkson on 10/08/2015.
-//  Copyright © 2015 Robbie Hanson. All rights reserved.
+//  This class is in the public domain.
+//  Originally created by Robbie Hanson of Deusty LLC.
+//  Updated and maintained by Deusty LLC and the Apple development community.
+//
+//  https://github.com/robbiehanson/CocoaAsyncSocket
 //
 
 @import Foundation;

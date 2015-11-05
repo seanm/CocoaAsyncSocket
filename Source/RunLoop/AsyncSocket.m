@@ -5,7 +5,7 @@
 //  Originally created by Dustin Voss on Wed Jan 29 2003.
 //  Updated and maintained by Deusty Designs and the Mac development community.
 //
-//  http://code.google.com/p/cocoaasyncsocket/
+//  https://github.com/robbiehanson/CocoaAsyncSocket
 //
 
 #if ! __has_feature(objc_arc)
